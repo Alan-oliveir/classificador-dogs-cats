@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/Alan-oliveir/classificador-dogs-cats/blob/main/transfer_learning_dogs_cats.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Classificador de cães e gatos
 
 Vamos classificar imagens de cães e gatos usando transferência de aprendizado de uma rede pré-treinada.
